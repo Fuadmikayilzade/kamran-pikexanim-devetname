@@ -189,7 +189,7 @@ export default function InviteScreen() {
 
       {/* ── COUPLE SCRATCH ── */}
       <div className="section reveal">
-        <p className="sec-label">Gəlin &amp; Bəy</p>
+        <p className="sec-label">Bəy &amp; Gəlin</p>
         <div className="scratch-wrap">
           <img src={couple} alt="Kamran & Pikəxanım" className="scratch-bg" />
           <canvas
